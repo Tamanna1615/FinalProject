@@ -1,0 +1,16 @@
+curl https://api.github.com/repos/Tamanna1615/FinalProject/pulls/2
+
+{
+  "url": "https://api.github.com/repos/Tamanna1615/FinalProject/pulls/2",
+  "id": 123456789,
+  "state": "open",
+  "title": "Bug fix revert completed",
+  "user": {
+     "login": "Tamanna1615",
+  },
+  "head": {
+     "repo": {
+        "full_name": "Tamanna1615/FinalProject"
+     }
+  }
+}
