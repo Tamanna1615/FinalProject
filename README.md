@@ -13,8 +13,7 @@ The script then calculates the simple interest using the formula:
 
 This project is part of the Coursera course  
 *Introduction to Git and GitHub* (Final Project).
-
----
+..........
 
 ## Files Included
 
